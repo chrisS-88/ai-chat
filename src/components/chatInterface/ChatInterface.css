@@ -1,0 +1,9 @@
+.chat-interface {
+  background-color: rgb(240, 245, 249);
+  position: absolute;
+  top: 68px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: auto;
+}

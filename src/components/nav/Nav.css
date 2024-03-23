@@ -1,0 +1,9 @@
+.title {
+  background-color: rgb(82, 97, 107);
+  color: white;
+}
+
+.title h1 {
+  font-size: 30px;
+  padding: 1rem;
+}
