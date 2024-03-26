@@ -1,19 +1,13 @@
-.chat-interface {
+.history {
   background-color: rgb(240, 245, 249);
   height: 85vh;
   border-radius: 5px;
-  position: relative;
 }
 
-.chat-title {
+.history-title {
   text-align: center;
   align-content: center;
   padding: 6px;
   border-radius: 5px 5px 0 0;
   background-color: rgb(201, 214, 223);
-}
-
-.search-bar {
-  position: absolute;
-  bottom: 18px;
 }
